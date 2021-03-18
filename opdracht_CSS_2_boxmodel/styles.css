@@ -1,0 +1,76 @@
+body {
+  font-family: redressed;
+  color: honeydew;
+  background-color: rgb(86, 153, 146);
+}
+
+a {
+  text-decoration: none;
+  color: lightcoral;
+  font-size: 20px;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: honeydew;
+}
+
+.navbar ul {
+  padding: none;
+  list-style: none;
+}
+
+.navbar li {
+  font-size: 30px;
+  width: 30%;
+  padding: 10px;
+  display: inline;
+}
+
+.topboarder {
+  text-align: center;
+  border: greenyellow;
+  border-style: dotted;
+  border-width: 90%;
+  margin: 15px;
+}
+
+main {
+  border-color: greenyellow;
+  border-style: dotted;
+  border-radius: 25px;
+  border-width: 10px;
+  margin: 5px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  /**
+    padding:10px 20px;**/
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+.lijstje {
+  font-size: 20px;
+}
+
+img.photo {
+  border: 1px solid #999;
+  background-color: #fcfcfc;
+  padding: 4px;
+}
+
+figure {
+  width: 80%;
+  margin: 0 auto;
+}
